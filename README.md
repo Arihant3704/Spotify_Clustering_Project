@@ -3,6 +3,11 @@
 
 This project implements hierarchical clustering on Spotify songs dataset based on audio features and popularity using unsupervised machine learning.
 
+## 🚀 Live App
+
+👉 [Click here to launch the Spotify Clustering App](https://spotifyclusteringproject-fygkfzfttduud38pyvuzcr.streamlit.app/)
+
+
 ---
 
 ## 📊 Project Summary
