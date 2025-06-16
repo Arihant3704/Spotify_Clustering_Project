@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
 
 ## 📞 Contact
 
-Created by: **Arihant’s ML Pipeline** 🚀  
+Created by: **Arihant** 🚀  
 Contact for help or improvements!
 
 ---
