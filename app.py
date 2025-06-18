@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore")
 
 st.set_page_config(page_title="Spotify Song Clustering", page_icon="🎵", layout="wide")
 st.title("🎵 Spotify Song Clustering PRO (Hierarchical Clustering)")
-st.write("**Built by Arihant’s ML Pipeline 🚀**")
+st.write("**Built by Ankit and Arihant 🚀**")
 
 st.sidebar.header("📁 Upload Dataset")
 uploaded_file = st.sidebar.file_uploader("Upload your Spotify CSV file", type=["csv"])
